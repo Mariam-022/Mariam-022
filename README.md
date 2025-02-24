@@ -7,7 +7,11 @@
 <h2 align="center"> Full-Stack .NET Developer</h2>
 
 ---
-<p align="left">
+ <p align="center"> <!-- Google Me -->
+    <a href="https://www.google.com.eg/search?q=ahmed+hemeda">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Visit%20my%20LinkedIn%20Profile;Follow%20to%20get%20New%20Updates&font=Bold%20Code&center=true&height=55&color=D030A0&pause=1750&size=20">
+  </p>
+<p align="left" style="margin-left: 20px;">
   <a href="https://www.linkedin.com/in/mariam-ibrahim-078610321" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="50"/>
   </a>
