@@ -28,9 +28,9 @@
 
 ---
 
-## 🏆 GitHub Trophies:
+## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mariam-ibrahim&theme=onestar&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mariam-ibrahim&theme=onestar&row=1&column=7" alt="GitHub Trophies"/>
 </p>
 
 ---
