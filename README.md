@@ -8,7 +8,6 @@
 
 ---
  <p align="center"> <!-- Google Me -->
-    <a href="https://www.google.com.eg/search?q=ahmed+hemeda">
       <img src="https://readme-typing-svg.herokuapp.com/?lines=Visit%20my%20LinkedIn%20Profile;Follow%20to%20get%20New%20Updates&font=Bold%20Code&center=true&height=55&color=D030A0&pause=1750&size=20">
   </p>
 <p align="left" style="margin-left: 20px;">
